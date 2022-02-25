@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         brightness: Brightness.dark,
-        primaryColor: Color.fromARGB(255, 168, 107, 179),
+        primaryColor: Color.fromARGB(255, 127, 77, 136),
       ),
     );
   }
